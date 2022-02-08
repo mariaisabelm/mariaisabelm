@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Maria Isabel
 - 👀 I’m interested in becoming a developer
 - 🌱 I’m currently learning about JavaScript and HTML
+- ⚡ Fun fact: I like to travel and read books
 
 <!---
 mariaisabelm/mariaisabelm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
